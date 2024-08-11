@@ -1,6 +1,6 @@
 fun main() {
     val count = 5
-    var a = add(count,6)
+    val a = add(count,6)
     println(a)
 }
 
