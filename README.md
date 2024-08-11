@@ -29,7 +29,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+    <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="40" height="40"/>
   </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -62,6 +62,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   </a>
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS80OChMU7lMUMwU7CVu4ZJl1irvee4jmFfjw&s" alt="xd" width="40" height="40"/>
+    <img src="https://seeklogo.com/images/A/adobe-xd-logo-64364E3A24-seeklogo.com.png" alt="xd" width="40" height="40"/>
   </a>
 </p>
